@@ -23,7 +23,6 @@ def chat_view(request):
 
         return JsonResponse({
             "reply": reply_message,
-            
             "history": updated_history
         })
     
