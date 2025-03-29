@@ -1,0 +1,5 @@
+downlaod Django
+download ollama
+then sun ollama with: ollama serve
+then run server: python manage.py runserver
+
